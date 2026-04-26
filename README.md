@@ -47,8 +47,8 @@ This project analyzes the performance of different clustering algorithms using v
 
 ### Silhouette Score - Hierarchical Clustering
 
-![Silhouette Graph](<img width="576" height="455" alt="image" src="https://github.com/user-attachments/assets/4fc2a70c-b092-4d03-9751-ce368bb94646" />
-)
+![Silhouette Graph]
+<img width="776" height="296" alt="image" src="https://github.com/user-attachments/assets/15270df6-ffa7-4934-af0b-b0441af9b5b7" />
 
 ##  Key Observations
 
